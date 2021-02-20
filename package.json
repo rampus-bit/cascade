@@ -1,18 +1,41 @@
 {
-    "name": "bitguppy",
-    "displayName": "BitGuppy",
-    "description": "A beutiful VS-Code theme",
-    "version": "0.0.1",
+    "name": "cascade",
+    "displayName": "Cascade",
+    "description": "A beautiful VS-Code theme",
+    "publisher": "rampus-bit",
+    "author": {
+        "name": "Alden Garcia"
+    },
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.53.0"
     },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/rampus-bit/Cascade"
+    },
+    "bugs": {
+        "url": "https://github.com/rampus-bit/Cascade/issues"
+    },
+    "galleryBanner": {
+        "color": "09131b",
+        "theme": "dark"
+    },
+    "icon": "images/icons/G.png",
     "categories": [
         "Themes"
+    ],
+    "keywords": [
+        "Alden Garcia",
+        "Rampus",
+        "Dark Theme",
+        "Gray",
+        "Cascade"
     ],
     "contributes": {
         "themes": [
             {
-                "label": "bitguppy",
+                "label": "Cascade",
                 "uiTheme": "vs-dark",
                 "path": "./themes/bitguppy-color-theme.json"
             }
