@@ -6,7 +6,7 @@
     "author": {
         "name": "Alden Garcia"
     },
-    "version": "0.0.3",
+    "version": "0.1.4",
     "engines": {
         "vscode": "^1.53.0"
     },
@@ -40,12 +40,12 @@
                 "path": "./themes/cascade-color-theme.json"
             },
             {
-                "label": "Cascade-Bordered",
+                "label": "Cascade Bordered",
                 "uiTheme": "vs-dark",
                 "path": "./themes/cascade-bold-color-theme.json"
             },
             {
-                "label": "Cascade-Italicized",
+                "label": "Cascade Italicized",
                 "uiTheme": "vs-dark",
                 "path": "./themes/cascade-italics-color-theme.json"
             }
