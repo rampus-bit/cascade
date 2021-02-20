@@ -3,19 +3,29 @@
 	"author": "Alden",
 	"type": "dark",
 	"colors": {
-		//Editor
+		// Editor
 		"editor.background": "#2E3440",
 		"editor.foreground": "#eeffff",
-
-		//Activity Bar
+		// Explorer
+		"list.activeSelectionBackground": "#706d72",
+		"list.hoverBackground": "#706d72",
+		
+		// Activity Bar
 		"activityBar.background": "#24292E",
-		"activityBarBadge.background": "#007acc",
+		"activityBar.border": "#20252a",
+		"activityBarBadge.background": "#505358",
+		"activityBarBadge.foreground": "#ffffff",
+		"activityBar.activeBorder": "#ffffff",
+		// Status Bar
+		"statusBar.background": "#171318",
+		"statusBar.debuggingBackground": "#1d171f",
+		"statusBar.border": "#20252a",
 
-		//Side Bar
+		// Side Bar
 		"sideBar.background": "#282C34",
 		"sideBarTitle.foreground": "#bbbbbb",
 
-		//Top Bar
+		// Top Bar
 		"tab.activeBackground": "#2E3440",
         "tab.inactiveBackground": "#23262E",
         "tab.activeForeground": "#746f77",

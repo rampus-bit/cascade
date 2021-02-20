@@ -8,7 +8,7 @@ VS Code Dark Theme
 Alden Garcia
 
 ### For more information
-* [Source code, and Github repository](https://github.com/rampus-bit/Cascade)
+* [Source code, and Github repository](https://github.com/rampus-bit/Themes-Guppy)
 * [Visual Studio Theme Support](https://code.visualstudio.com/docs/getstarted/themes)
 
 ## About
