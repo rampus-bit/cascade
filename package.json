@@ -42,7 +42,7 @@
             {
                 "label": "Cascade-Bordered",
                 "uiTheme": "vs-dark",
-                "path": "./themes/cascade-bordered-color-theme.json"
+                "path": "./themes/cascade-bold-color-theme.json"
             },
             {
                 "label": "Cascade-Italicized",
