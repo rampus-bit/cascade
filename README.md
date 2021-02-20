@@ -1,4 +1,4 @@
-# Guppy
+# Cascade
 
 VS Code Dark Theme
 <img src="images/pictures/Example.png">
@@ -8,7 +8,7 @@ VS Code Dark Theme
 Alden Garcia
 
 ### For more information
-* [Source code, and Github repository](https://github.com/rampus-bit/Themes-Guppy)
+* [Source code, and Github repository](https://github.com/rampus-bit/Cascade)
 * [Visual Studio Theme Support](https://code.visualstudio.com/docs/getstarted/themes)
 
 ## About
