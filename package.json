@@ -37,15 +37,15 @@
             {
                 "label": "Cascade",
                 "uiTheme": "vs-dark",
-                "path": "./themes/cascade-color-theme.json"
+                "path": "./themes/cascade-italics-color-theme.json"
             },
             {
-                "label": "Cascade Bordered",
+                "label": "Cascade-Bolded",
                 "uiTheme": "vs-dark",
                 "path": "./themes/cascade-bold-color-theme.json"
             },
             {
-                "label": "Cascade Italicized",
+                "label": "Cascade-Italicized",
                 "uiTheme": "vs-dark",
                 "path": "./themes/cascade-italics-color-theme.json"
             }

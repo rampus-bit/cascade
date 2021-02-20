@@ -7,12 +7,12 @@
 		"editor.background": "#2E3440",
 		"editor.foreground": "#eeffff",
 		// Explorer
-		"list.activeSelectionBackground": "#706d72",
+		"list.activeSelectionBackground": "#656466",
 		"list.hoverBackground": "#706d72",
+		"list.focusBackground": "#706d72",
 		
 		// Activity Bar
 		"activityBar.background": "#24292E",
-		"activityBar.border": "#20252a",
 		"activityBarBadge.background": "#505358",
 		"activityBarBadge.foreground": "#ffffff",
 		"activityBar.activeBorder": "#ffffff",
