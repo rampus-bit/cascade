@@ -2,8 +2,8 @@
 
 All notable changes to the "cascade" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## Release Dates:
 
-## [Unreleased]
-
-- Initial release
+### [0.0.1 - 0.1.5] - 2021-02-20
+- Dark: Italizised, and bolded theme variatons
+- Several additional changes: small theme specifications.
