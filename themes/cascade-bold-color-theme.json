@@ -33,6 +33,10 @@
 		"editorGroup.emptyBackground": "#23262E",
         "editorGroup.dropBackground": "#495061d7",
         "editorGroupHeader.tabsBackground": "#23262E",
+
+		// Theme Selection
+		"editorWidget.background": "#24292E"
+		
 	},
 	"tokenColors": [
 		{
