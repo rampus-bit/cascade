@@ -3,6 +3,9 @@
 VS Code Dark Theme
 <img src="images/pictures/Example.png">
 
+## How to apply a theme
+Once the theme is installed, you can switch the theme in `File > Preferences > Color Theme` afterwards a menu will pop up, type Cascade and choose your preferred version.
+
 ## Team
 <img src="images/pictures/Alden-Garcia.jpg" width="80"><br/>
 Alden Garcia
