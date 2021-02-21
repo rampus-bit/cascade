@@ -7,6 +7,8 @@
 		"editor.background": "#2E3440",
 		"editor.foreground": "#eeffff",
 		"editor.lineHighlightBorder": "#40444b",
+		"button.background": "#2E3440",
+		"button.hoverBackground": "#282d36",
 		// Explorer
 		"list.activeSelectionBackground": "#656466",
 		"list.hoverBackground": "#706d72",
@@ -33,6 +35,9 @@
 		"editorGroup.emptyBackground": "#23262E",
         "editorGroup.dropBackground": "#495061d7",
         "editorGroupHeader.tabsBackground": "#23262E",
+		
+		// Theme Selection
+		"editorWidget.background": "#24292E"
 	},
 	"tokenColors": [
 		{

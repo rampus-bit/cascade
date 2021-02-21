@@ -1,5 +1,7 @@
 # Cascade
 
+<!--Images need to be copied directly from the link adress-->
+
 VS Code Dark Theme
 <img src="images/pictures/Example.png">
 
