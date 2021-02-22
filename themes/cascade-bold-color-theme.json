@@ -22,6 +22,7 @@
 		// Status Bar
 		"statusBar.background": "#171318",
 		"statusBar.debuggingBackground": "#1d171f",
+		"statusBar.noFolderBackground": "#171318",
 
 		// Side Bar
 		"sideBar.background": "#282C34",
