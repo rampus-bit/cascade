@@ -1,10 +1,10 @@
 {
-	"name": "cascade-bordered/dark",
+	"name": "cascade-faint/dark",
 	"author": "Alden",
-	"type": "light",
+	"type": "dark",
 	"colors": {
 		// Editor
-		"editor.background": "#2E3440",
+		"editor.background": "#ffffff",
 		"editor.foreground": "#eeffff",
 		"editor.lineHighlightBorder": "#40444b",
 		"button.background": "#23262E",
@@ -15,31 +15,32 @@
 		"list.focusBackground": "#706d72",
 		
 		// Activity Bar
-		"activityBar.background": "#24292E",
+		"activityBar.background": "#555E68",
+		"activityBar.foreground": "#ffffff",
+		"activityBar.activeBorder": "#ffffff",
 		"activityBarBadge.background": "#505358",
 		"activityBarBadge.foreground": "#ffffff",
-		"activityBar.activeBorder": "#ffffff",
 		// Status Bar
-		"statusBar.background": "#171318",
-		"statusBar.debuggingBackground": "#1d171f",
-		"statusBar.noFolderBackground": "#171318",
+		"statusBar.background": "#5DA892",
+		"statusBar.debuggingBackground": "#5DA892",
+		"statusBar.noFolderBackground": "#5DA892",
 
 		// Side Bar
 		"sideBar.background": "#282C34",
 		"sideBarTitle.foreground": "#bbbbbb",
 
 		// Top Bar
-		"tab.activeBackground": "#2E3440",
-        "tab.inactiveBackground": "#23262E",
-        "tab.activeForeground": "#746f77",
-        "tab.inactiveForeground": "#746f77",
+		"tab.activeBackground": "#F7F7F7",
+        "tab.inactiveBackground": "#F5F5F5",
+        "tab.activeForeground": "#546E7A",
+        "tab.inactiveForeground": "#767D85",
+		"tab.border": "#F6F6F6",
 		"editorGroup.emptyBackground": "#23262E",
         "editorGroup.dropBackground": "#495061d7",
-        "editorGroupHeader.tabsBackground": "#23262E",
-
+        "editorGroupHeader.tabsBackground": "#555E68",
+		
 		// Theme Selection
 		"editorWidget.background": "#24292E"
-
 	},
 	"tokenColors": [
 		{
@@ -91,7 +92,6 @@
 			],
 			"settings": {
 				"foreground": "#C792EA",
-				"fontStyle": "bold"
 			}
 		},
 		{
