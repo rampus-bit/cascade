@@ -1,7 +1,7 @@
 {
-	"name": "cascade-faint/dark",
+	"name": "cascade-light",
 	"author": "Alden",
-	"type": "dark",
+	"type": "light",
 	"colors": {
 		// Editor
 		"editor.background": "#ffffff",

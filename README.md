@@ -8,15 +8,18 @@ Dark Theme
 <!--Light Theme
 <img src="">-->
 
+<!--Void Theme
+<img src="Void">-->
+
 ## How to apply a theme
 Once the theme is installed, you can switch the theme in `File > Preferences > Color Theme` afterwards a menu will pop up, type Cascade and choose your preferred version.
 
 ## Dev Team:
-<img src="https://raw.githubusercontent.com/rampus-bit/Cascade/main/images/pictures/Alden-Garcia.jpg" width="80"><br/>
+<!--<img src="https://raw.githubusercontent.com/rampus-bit/Cascade/main/images/pictures/Alden-Garcia.jpg" width="80"><br/>-->
 - Alden Garcia
 
 ## Contributors:
-<img src="https://raw.githubusercontent.com/rampus-bit/Cascade/main/images/pictures/Angel.png" width="80"><br/>
+<!--<img src="https://raw.githubusercontent.com/rampus-bit/Cascade/main/images/pictures/Angel.png" width="80"><br/>-->
 - Angel Tomkins
 
 ### For more information

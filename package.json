@@ -6,7 +6,7 @@
     "author": {
         "name": "Alden Garcia"
     },
-    "version": "0.0.0",
+    "version": "0.2.1",
     "engines": {
         "vscode": "^1.22.0"
     },
@@ -30,7 +30,10 @@
         "Rampus",
         "Dark Theme",
         "Gray",
-        "Cascade"
+        "Cascade",
+        "Void",
+        "Light",
+        "Black"
     ],
     "contributes": {
         "themes": [
