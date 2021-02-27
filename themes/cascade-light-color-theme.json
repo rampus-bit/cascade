@@ -39,8 +39,14 @@
         "editorGroup.dropBackground": "#495061d7",
         "editorGroupHeader.tabsBackground": "#555E68",
 		
-		// Theme Selection
-		"editorWidget.background": "#24292E"
+		// Theme Selection & Settings
+		"foreground": "#8f8f8f",
+		"input.border": "#464e57",
+		"input.background": "#555E68",
+		"input.foreground": "#8e9aa8",
+		"dropdown.background": "#555E68",
+
+		//"editorWidget.background": "#24292E",
 	},
 	"tokenColors": [
 		{
@@ -50,8 +56,8 @@
 				"punctuation.definition.comment"
 			],
 			"settings": {
+				"foreground": "#546E7A",
 				"fontStyle": "italic",
-				"foreground": "#546E7A"
 			}
 		},
 		{
