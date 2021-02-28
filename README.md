@@ -21,7 +21,7 @@ Once the theme is installed, you can switch the theme in `File > Preferences > C
 
 ## Contributors:
 <img src="https://raw.githubusercontent.com/rampus-bit/Cascade/main/images/pictures/Angel.png" width="80"><br/>
-- [Angel Tomkins](https://github.com/AngelTomkins)
+- Angel Tomkins
 
 ### For more information
 * [Source code, and Github repository](https://github.com/rampus-bit/Themes-Guppy)
