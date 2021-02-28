@@ -6,6 +6,9 @@
 Dark Theme
 <img src="./images/pictures/Dark-Theme.png">
 
+Original Dark Theme
+<img src="./images/pictures/Dark-Theme-Original.png">
+
 Light Theme
 <img src="./images/pictures/Light-Theme.png">
 
