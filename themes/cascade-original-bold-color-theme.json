@@ -1,5 +1,5 @@
 {
-	"name": "cascade-original/dark",
+	"name": "cascade-bolded/dark",
 	"author": "Alden",
 	"type": "dark",
 	"colors": {
@@ -36,9 +36,10 @@
 		"editorGroup.emptyBackground": "#23262E",
         "editorGroup.dropBackground": "#495061d7",
         "editorGroupHeader.tabsBackground": "#23262E",
-		
+
 		// Theme Selection
 		"editorWidget.background": "#24292E"
+
 	},
 	"tokenColors": [
 		{
@@ -90,6 +91,7 @@
 			],
 			"settings": {
 				"foreground": "#C792EA",
+				"fontStyle": "bold"
 			}
 		},
 		{

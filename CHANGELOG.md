@@ -15,3 +15,7 @@ All notable changes to the "Cascade" extension will be documented in this file.
 - Small tweaks to existing themes.
 - Introduction of a light theme.
 - Introduction of a "Void" theme.
+
+## [0.2.1 - 1.2.2] - 2021-02-26
+- Change to darker base theme. (Original dark is still available)
+- Major edits to every theme.

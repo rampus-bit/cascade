@@ -1,10 +1,10 @@
 {
-	"name": "cascade-original/dark",
+	"name": "cascade-base/dark",
 	"author": "Alden",
 	"type": "dark",
 	"colors": {
 		// Editor
-		"editor.background": "#2E3440",
+		"editor.background": "#1C1E26",
 		"editor.foreground": "#eeffff",
 		"editor.lineHighlightBorder": "#40444b",
 		"button.background": "#23262E",
@@ -15,7 +15,7 @@
 		"list.focusBackground": "#706d72",
 		
 		// Activity Bar
-		"activityBar.background": "#24292E",
+		"activityBar.background": "#1C1E26",
 		"activityBarBadge.background": "#505358",
 		"activityBarBadge.foreground": "#ffffff",
 		"activityBar.activeBorder": "#ffffff",
@@ -25,15 +25,15 @@
 		"statusBar.noFolderBackground": "#171318",
 
 		// Side Bar
-		"sideBar.background": "#282C34",
+		"sideBar.background": "#1C1E26",
 		"sideBarTitle.foreground": "#bbbbbb",
 
 		// Top Bar
-		"tab.activeBackground": "#2E3440",
-        "tab.inactiveBackground": "#23262E",
+		"tab.activeBackground": "#1C1E26",
+        "tab.inactiveBackground": "#1C1E26",
         "tab.activeForeground": "#746f77",
         "tab.inactiveForeground": "#746f77",
-		"editorGroup.emptyBackground": "#23262E",
+		"editorGroup.emptyBackground": "#1C1E26",
         "editorGroup.dropBackground": "#495061d7",
         "editorGroupHeader.tabsBackground": "#23262E",
 		

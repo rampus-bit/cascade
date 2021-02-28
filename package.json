@@ -6,7 +6,7 @@
     "author": {
         "name": "Alden Garcia"
     },
-    "version": "0.2.1",
+    "version": "1.2.2",
     "engines": {
         "vscode": "^1.22.0"
     },
@@ -38,25 +38,32 @@
     "contributes": {
         "themes": [
             {
-                "label": "Cascade",
+                "label": "Cascade-Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/cascade-dark-color-theme.json"
+            },
+            {
+                "label": "Cascade-Original",
                 "uiTheme": "vs-dark",
                 "path": "./themes/cascade-color-theme.json"
-            },
-            {
-                "label": "Cascade-Bolded",
-                "uiTheme": "vs-dark",
-                "path": "./themes/cascade-bold-color-theme.json"
-            },
-            {
-                "label": "Cascade-Italicized",
-                "uiTheme": "vs-dark",
-                "path": "./themes/cascade-italics-color-theme.json"
             },
             {
                 "label": "Cascade-Light",
                 "uiTheme": "vs",
                 "path": "./themes/cascade-light-color-theme.json"
+            },
 
+
+
+            {
+                "label": "Cascade-Bolded",
+                "uiTheme": "vs-dark",
+                "path": "./themes/cascade-original-bold-color-theme.json"
+            },
+            {
+                "label": "Cascade-Italicized",
+                "uiTheme": "vs-dark",
+                "path": "./themes/cascade-original-italics-color-theme.json"
             }
         ]
     }
