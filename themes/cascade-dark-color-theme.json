@@ -142,7 +142,7 @@
 				"meta.block variable.other"
 			],
 			"settings": {
-				"foreground": "#f07178"
+				"foreground": "#25FFFF"
 			}
 		},
 		{
@@ -208,7 +208,7 @@
 				"support.type"
 			],
 			"settings": {
-				"foreground": "#B2CCD6"
+				"foreground": "#C792EA"
 			}
 		},
 		{
