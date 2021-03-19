@@ -13,6 +13,7 @@
 		"list.activeSelectionBackground": "#656466",
 		"list.hoverBackground": "#706d72",
 		"list.focusBackground": "#706d72",
+		"list.dropBackground": "#706d72",
 		
 		// Activity Bar
 		"activityBar.background": "#1C1E26",

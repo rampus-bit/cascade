@@ -4,13 +4,13 @@
 
 <!--CHANGE THESE BACK TO LINKS-->
 Dark Theme
-<img src="./images/pictures/Dark-Theme.png">
+<img src="https://github.com/rampus-bit/Cascade/blob/main/images/pictures/Dark-Theme.png?raw=true">
 
 Original Dark Theme
-<img src="./images/pictures/Dark-Theme-Original.png">
+<img src="https://github.com/rampus-bit/Cascade/blob/main/images/pictures/Dark-Theme-Original.png?raw=true">
 
 Light Theme
-<img src="./images/pictures/Light-Theme.png">
+<img src="https://github.com/rampus-bit/Cascade/blob/main/images/pictures/Light-Theme.png?raw=true">
 
 <!--Void Theme
 <img src="Void">-->
