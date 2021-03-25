@@ -6,7 +6,7 @@
     "author": {
         "name": "Alden Garcia"
     },
-    "version": "1.2.4",
+    "version": "1.2.5",
     "engines": {
         "vscode": "^1.22.0"
     },
